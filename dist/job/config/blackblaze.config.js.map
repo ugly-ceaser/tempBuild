@@ -1,0 +1,1 @@
+{"version":3,"file":"blackblaze.config.js","sourceRoot":"","sources":["../../src/config/blackblaze.config.ts"],"names":[],"mappings":";;AACA,kBAAe,GAAG,EAAE,CAAC,CAAC;IAClB,SAAS,EAAE;QACT,SAAS,EAAE,OAAO,CAAC,GAAG,CAAC,oBAAoB;QAC3C,cAAc,EAAE,OAAO,CAAC,GAAG,CAAC,yBAAyB;QACrD,QAAQ,EAAE,OAAO,CAAC,GAAG,CAAC,mBAAmB;KAC1C;CACF,CAAC,CAAC"}
